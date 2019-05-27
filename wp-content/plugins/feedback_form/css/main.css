@@ -1,0 +1,36 @@
+.div-table {
+  display: table;         
+  width: 100%;         
+  background-color: white;                 
+  font-size: 14px;
+}
+.div-table-row {
+  display: table-row;
+  width: 100%;
+  border-bottom: 3px solid black;
+}
+.div-table-col {
+  display: table-cell;
+  vertical-align: middle;  
+}
+.id_feedback{
+	width: 6%;
+}
+.username{
+	  width: 15%; 
+}
+.email_f{
+	  width: 15%; 
+}
+.message{
+	width: 20%; 
+}
+.photo{
+	width: 17%;
+}
+.data_create{
+	width: 14%;
+}
+.operation{
+	width: 7%;
+}
